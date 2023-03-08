@@ -1,0 +1,1 @@
+this language is a joke and is not ment to do anything a real programming language can
